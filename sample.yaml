@@ -1,0 +1,23 @@
+1.0.1:
+  jquery-1.0.1.js:
+    hash: 6c9dcc0685e56377016a0b50e008a42ef84c04a4
+    normalized: "ac2fbe63d02798c62d447441c0dae6c5fd1b1043"
+  jquery-1.0.1.pack.js:
+    hash: 08341cd159e29f561ca0ec16c99bf4b85e43d30f
+    normalized: "9e326989381601ca91f7a1c626367f0e594d80fd"
+
+1.0.2:
+  jquery-1.0.2.js:
+    hash: d3b30b0fead39e4c40fb0c91408e74439020a279
+    normalized: "1d32919fa41b4bff1f1ecb27516af5b709221b5e"
+  jquery-1.0.2.pack.js:
+    hash: 84b1514a01def3bc0b52f6fa03d0d9fa349bef72
+    normalized: "bab5966fc200dff4ad4b02700821879d2a75be94"
+
+1.0.3:
+  jquery-1.0.3.js:
+    hash: 4c12e01d990bd2b1075812d9f28e3ffa50ca59df
+    normalized: "3f8f77f3745c4711cb587b857001d95680a40566"
+  jquery-1.0.3.pack.js:
+    hash: ddb4126bf4713cb4e0f2310401e58cb9e3f98997
+    normalized: "3252e87185128ff7ba00cb88f8c2cbeda6452c56"
