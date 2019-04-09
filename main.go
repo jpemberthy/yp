@@ -1,7 +1,6 @@
 package main
 
 import (
-	"fmt"
 	"io/ioutil"
 
 	"github.com/kr/pretty"
@@ -18,13 +17,13 @@ type Package struct {
 func main() {
 	source, err := ioutil.ReadFile(filePath)
 	if err != nil {
-		fmt.Errorf(err.Error())
+		panic(err)
 	}
 
 	config := map[string]map[string]Package{}
 	err = yaml.Unmarshal(source, &config)
 	if err != nil {
-		fmt.Errorf(err.Error())
+		panic(err)
 	}
 
 	pretty.Println(config)
