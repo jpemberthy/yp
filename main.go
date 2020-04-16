@@ -26,5 +26,6 @@ func main() {
 		panic(err)
 	}
 
+	fmt.Println("testing workspaces!")
 	pretty.Println(config)
 }
